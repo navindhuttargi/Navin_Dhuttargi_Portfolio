@@ -48,7 +48,7 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * IDE: Visual Studio
 * Version Control: SVN, Github
 
-# Education </h2>
+# Education
 
 ##  Bachelor of Engineering(Computer)
 *  Solapur University (2018) 
