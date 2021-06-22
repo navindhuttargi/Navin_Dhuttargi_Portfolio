@@ -42,4 +42,26 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * Implemented the gameplay mechanics and gameplay logic
 
 ## Skills
+### Language: C, C#
+### Software
 * Unity
+* IDE: Visual Studio
+* Version Control: SVN, Github
+
+# <h2> Education </h2>
+
+## <h3> Bachelor of Engineering(Computer)</h3>
+* <h4> Solapur University (2018) </h4>
+
+## <h3> Diploma</h3>
+* <h4> Mumbai Board(2015)</h4>
+
+## <h3> SSC </h3>
+* <h4> Pune Board(2012)</h4>
+
+## Contact
+* [navindhuttargi@gmail.com](navinduttargi@gmail.com)
+
+
+
+
