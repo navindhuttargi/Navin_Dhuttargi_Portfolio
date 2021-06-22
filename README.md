@@ -60,7 +60,8 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * <h4> Pune Board(2012)</h4>
 
 ## Contact
-* [navindhuttargi@gmail.com](navinduttargi@gmail.com)
+* Email : [navindhuttargi@gmail.com](navinduttargi@gmail.com)
+* Github : [https://github.com/navindhuttargi](https://github.com/navindhuttargi)
 
 
 
