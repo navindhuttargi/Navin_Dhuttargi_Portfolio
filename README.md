@@ -25,7 +25,7 @@
 * Downloading the game assets and loading them into the game
 * Integration of AdColony plugin for monetisation
 
-## Project 6: Bomberman
+## Project 6: [Bomberman](https://github.com/navindhuttargi/Bomberman)
 
 * Implenented Service locator,Observer and MVC design pattern for architecting the project
 * Implemented the functionality of player movement and Enemy movement
