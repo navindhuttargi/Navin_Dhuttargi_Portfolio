@@ -29,3 +29,4 @@
 
 * Implenented Service locator,Observer and MVC design pattern for architecting the project
 * Implemented the functionality of player movement and Enemy movement
+* Implemented the gameplay mechanics and gameplay logic
