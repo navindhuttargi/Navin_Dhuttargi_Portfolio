@@ -5,7 +5,7 @@
 Experienced Game Programmer with a demonstrated history of working in the computer games industry. Skilled in Game Programming, C#, Object-Oriented Programming (OOP), C (Programming Language). Strong engineering professional with a Bachelor of Engineering focused in Computer Engineering.
 
 ## Experience
-<h2>Unity Developer (Dec 2018 – April 2019)</h2>
+<h3>Unity Developer (Dec 2018 – April 2019)</h3>
 
 <h4> Project 1: Ludo online multiplayer game </h4>
 
@@ -13,7 +13,7 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * Player invitation using multiple social media apps
 * Photon server integration for Online game mode
 
-<h2>Intern Trainee Game Programmer (April 2019-Sept 2019)</h2>
+<h3>Intern Trainee Game Programmer (April 2019-Sept 2019)</h3>
 
 <h4> Project 2:Micro Scope Puzzle</h4>
 
@@ -24,7 +24,7 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * Created archive of Mini games (Bingo, Big Bang, Swing and Mr. Gun) for the android platform using unity engine.
 * Modified them to be supported as drag and drop games into any games
 
-<h2> Junior Game Programmer (Oct 2019-May 2021) </h2>
+<h3> Junior Game Programmer (Oct 2019-May 2021) </h3>
 <h4> Project 4: Bollywood boss [Slot game]</h4>
 
 * Implemented the gameplay mechanics and gameplay Logic of wheel of fortune.
