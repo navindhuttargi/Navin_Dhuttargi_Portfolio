@@ -10,7 +10,7 @@
 
 * Implemented state machine for managing the different states of game
 
-## Project 3: Mini project 
+## Project 3: Mini project
 
 * Created archive of Mini games (Bingo, Big Bang, Swing and Mr. Gun) for the android platform using unity engine.
 * Modified them to be supported as drag and drop games into any games
