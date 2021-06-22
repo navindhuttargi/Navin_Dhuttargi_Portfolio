@@ -20,6 +20,12 @@
 * Implemented the gameplay mechanics and gameplay Logic of wheel of fortune.
 
 ## Project 5: Stories Project
+
 * Implementation of gameplay mechanics, gameplay logic and gameplay flow
 * Downloading the game assets and loading them into the game
 * Integration of AdColony plugin for monetisation
+
+## Project 6: Bomberman
+
+* Implenented Service locator,Observer and MVC design pattern for architecting the project
+* Implemented the functionality of player movement and Enemy movement
