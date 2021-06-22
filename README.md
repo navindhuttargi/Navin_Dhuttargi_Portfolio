@@ -35,7 +35,7 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * Downloading the game assets and loading them into the game
 * Integration of AdColony plugin for monetisation
 
-<h4> Project 6: [Bomberman](https://github.com/navindhuttargi/Bomberman)</h4>
+#### Project 6: [Bomberman](https://github.com/navindhuttargi/Bomberman)
 
 * Implenented Service locator,Observer and MVC design pattern for architecting the project
 * Implemented the functionality of player movement and Enemy movement
