@@ -50,13 +50,13 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 
 # <h2> Education </h2>
 
-## <h3> Bachelor of Engineering(Computer)</h3>
+##  Bachelor of Engineering(Computer)
 * <h4> Solapur University (2018) </h4>
 
-## <h3> Diploma</h3>
+##  Diploma
 * <h4> Mumbai Board(2015)</h4>
 
-## <h3> SSC </h3>
+## SSC 
 * <h4> Pune Board(2012)</h4>
 
 ## Contact
