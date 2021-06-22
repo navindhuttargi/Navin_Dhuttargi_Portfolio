@@ -48,16 +48,16 @@ Experienced Game Programmer with a demonstrated history of working in the comput
 * IDE: Visual Studio
 * Version Control: SVN, Github
 
-# <h2> Education </h2>
+# Education </h2>
 
 ##  Bachelor of Engineering(Computer)
-* <h4> Solapur University (2018) </h4>
+*  Solapur University (2018) 
 
 ##  Diploma
-* <h4> Mumbai Board(2015)</h4>
+* Mumbai Board(2015)
 
 ## SSC 
-* <h4> Pune Board(2012)</h4>
+* Pune Board(2012)
 
 ## Contact
 * Email : [navindhuttargi@gmail.com](navinduttargi@gmail.com)
