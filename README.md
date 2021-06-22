@@ -1,6 +1,6 @@
 <h1> Navin Dhuttargi</h1>
 
-##                                                                                  About 
+##                                                                                   About 
 
 Experienced Game Programmer with a demonstrated history of working in the computer games industry. Skilled in Game Programming, C#, Object-Oriented Programming (OOP), C (Programming Language). Strong engineering professional with a Bachelor of Engineering focused in Computer Engineering.
 
